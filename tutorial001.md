@@ -1,8 +1,9 @@
 ### @activities true
 
-# MakeCode Arcade: Koble til spillkonsollet
+# MakeCode Arcade: Små spill for konsoll
 ## Introduksjon
 ### Introduksjon @unplugged
+Lag et spill der du skal fange tacoer!
 
 ### Steg 1:
 Finn en ``||scene:set tilemap to||``-blokk fra Scene-kategorien og plasser den i ``||loops:On Start||``-blokken.
